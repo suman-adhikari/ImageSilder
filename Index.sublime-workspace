@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"get",
+				"getCurrencyStoreId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/wamp/www/BackupAccountManagerInterface/Application/Shared/Views/CountriesAndOperators/CountryDetail.twig",
+		"/E/wamp/www/BackupAccountManagerInterface/Application/WebInterface/Views/CountriesAndOperator/Index.twig",
+		"/C/Users/Admin/AppData/Roaming/Microsoft/Signatures/signatureNew.htm",
+		"/C/Users/Admin/AppData/Roaming/Microsoft/Signatures/testNew.htm",
+		"/C/Users/Admin/AppData/Roaming/Microsoft/Signatures/test.htm",
+		"/C/Users/Admin/AppData/Roaming/Microsoft/Signatures/signature.htm",
+		"/C/Users/Admin/AppData/Roaming/Microsoft/Signatures/signature2.htm",
+		"/C/Users/Admin/Desktop/signature.html",
+		"/C/Users/Admin/Desktop/unifun banner/banner.html",
+		"/C/Users/Admin/Desktop/unifun banner/style.css",
+		"/C/Users/Admin/Desktop/unifun banner/test.css",
+		"/C/Alfresco/tomcat/shared/classes/alfresco-global.properties",
+		"/C/Alfresco/alf_data/keystore/keystore",
+		"/C/Alfresco/imagemagick/lib/gs_ksb_e.ps",
+		"/C/Alfresco/tomcat/shared/classes/alfresco-global.properties.sample",
+		"/C/Alfresco/amps/alfresco-spp.amp",
+		"/C/Alfresco/alfresco.log",
+		"/C/Alfresco/tomcat/webapps/share/js/alfresco/documentlibrary/AlfResultsPerPageGroup.js",
+		"/C/Alfresco/licenses/3rd-party/Apache-like-JDOM.txt",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/amp/src/main/amp/config/alfresco/extension/templates/webscripts/org/alfresco/consulting/services/workflow/upload/upload.post.js",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/web-extension/site-webscripts/org/alfresco/consulting/extensions/components/workflow/start-workflow.get.html.ftl",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/amp/src/main/amp/config/alfresco/module/workflow-upload/module-context.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/amp/src/main/amp/module.properties",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/webapp/components/form/upload.js",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/amp/src/main/amp/config/alfresco/module/workflow-upload/context/service-context.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/amp/.settings/org.eclipse.wst.common.project.facet.core.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/log4j.properties",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/web-extension/site-webscripts/org/alfresco/consulting/extensions/components/workflow/start-workflow.get.desc.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/module/wf-form/context/service-context.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/module/wf-form/module-context.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/web-extension/site-data/extensions/wf-upload-form.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/web-extension/site-webscripts/org/alfresco/components/form/controls/association.ftl",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/web-extension/share-config-custom.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/java/org/alfresco/consulting/evaluators/StringRegexEvaluator.java",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/amp/src/main/amp/config/alfresco/extension/templates/webscripts/org/alfresco/consulting/services/workflow/upload/upload.post.js",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/amp/src/main/amp/config/alfresco/extension/templates/webscripts/org/alfresco/consulting/services/workflow/upload/upload.post.desc.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/resources/alfresco/web-extension/site-webscripts/org/alfresco/components/form/controls/Override-Existing-Form-Controls.txt",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/amp/src/main/java/org/alfresco/consulting/services/workflow/InitializeWorkflow.java",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/amp/src/main/amp/config/alfresco/module/workflow-upload/context/service-context.xml",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/amp/src/main/amp/config/alfresco/extension/templates/webscripts/org/alfresco/consulting/services/workflow/upload/upload.get.html.status.ftl",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/solr/src/main/solr-properties/archive/solrconfig.xml",
+		"/C/Alfresco/serviceinstall.bat",
+		"/C/Alfresco/alf_data/keystore/ssl-truststore-passwords.properties",
+		"/C/Alfresco/licenses/3rd-party/Sun-JSR907-TransactionAPI.txt",
+		"/C/Alfresco/tomcat/bin/startup.bat",
+		"/C/Alfresco/java/COPYRIGHT",
+		"/C/Alfresco/libreoffice/App/libreoffice/program/resource/chartcontrolleren-US.res",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share/overlays/org.alfresco.share-5.0.a/js/alfresco/header/CurrentUserStatus.js",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/repo/overlays/org.alfresco.alfresco-5.0.a/yui/Custom.css",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share-amp/target/share-amp/css/custom-label-layout.css",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share/overlays/org.alfresco.share-5.0.a/js/lib/dojo-1.9.0/dojox/mobile/themes/custom/SpinWheel_rtl-compat.css",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share/overlays/org.alfresco.share-5.0.a/js/lib/dojo-1.9.0/dojox/mobile/themes/custom/SpinWheel-compat.css",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share/overlays/org.alfresco.share-5.0.a/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/document-details/document-workflows.get.js",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share/overlays/org.alfresco.share-5.0.a/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/document-details/document-workflows.get_ru.properties",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/share/src/main/properties/local/application.properties",
+		"/C/Users/Admin/Downloads/Compressed/wf-form-master/wf-form-master/alfresco/src/main/webapp/WEB-INF/faces-config-custom.xml",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share-amp/src/main/amp/config/alfresco/web-extension/site-data/template-types/custom-site-index.xml",
+		"/D/Projects/alfrescoWorkspace/unifun-payment-system/share-amp/src/main/amp/site-index.jsp",
+		"/C/Users/Admin/Desktop/overiding.js",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/dtd/officedocument/1_0/groupuinames.dtd",
+		"/C/Alfresco/imagemagick/lib/gs_rdlin.ps",
+		"/C/Alfresco/imagemagick/lib/gsbj",
+		"/C/Alfresco/tomcat/webapps/share/js/lib/dojo-1.9.0/dojox/mvc/Group.js",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/gallery/arrows/A42-TrendArrow-Red-GoUp.svg",
+		"/C/Alfresco/libreoffice/App/libreoffice/program/resource/epsen-GB.res",
+		"/C/Alfresco/tomcat/webapps/share/js/lib/dojo-1.9.0/dojox/treemap/themes/GroupLabel.css",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/config/soffice.cfg/modules/scalc/ui/groupdialog.ui",
+		"/C/Alfresco/postgresql/doc/postgresql/html/catalogs-overview.html",
+		"/C/Alfresco/imagemagick/configure.xml",
+		"/C/Alfresco/postgresql/doc/postgresql/html/contrib-dblink-open.html",
+		"/C/Alfresco/tomcat/webapps/solr4/js/lib/console.js",
+		"/C/Alfresco/solr4/context.xml",
+		"/C/Alfresco/libreoffice/Data/settings/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/2521.tmp_/SunPresentationMinimizer.xcu",
+		"/C/Alfresco/imagemagick/www/compare.html",
+		"/C/Alfresco/imagemagick/www/compose.html",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/gallery/diagrams/Component-Cube03-Green.svg",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/gallery/diagrams/Component-Sphere03-Green.svg",
+		"/C/Alfresco/libreoffice/App/libreoffice/program/components/addrbook.xpt",
+		"/C/Alfresco/libreoffice/App/libreoffice/program/components/xpcom_components.xpt",
+		"/C/Alfresco/tomcat/webapps/share/js/lib/dojo-1.9.0/dojox/dgauges/components/classic/HorizontalLinearGauge.js.uncompressed.js",
+		"/C/Alfresco/imagemagick/lib/wftopfa",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/gallery/symbols/Sign-Warning02-Orange.svg",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/Scripts/beanshell/WordCount/wordcount.bsh",
+		"/C/Alfresco/postgresql/include/server/executor/nodeWorktablescan.h",
+		"/C/Alfresco/solr4/workspace-SpacesStore/conf/lang/contractions_it.txt",
+		"/C/Alfresco/solr4/workspace-SpacesStore/conf/lang/stopwords_id.txt",
+		"/C/Alfresco/solr4/workspace-SpacesStore/conf/lang/stopwords_it.txt",
+		"/C/Alfresco/tomcat/shared/classes/alfresco/extension/lifecycle-workflow-context.xml.sample",
+		"/C/Alfresco/solr4/workspace-SpacesStore/conf/lang/stopwords_ja.txt",
+		"/C/Alfresco/imagemagick/thresholds.xml",
+		"/C/Alfresco/postgresql/share/timezone/Asia/Tel_Aviv",
+		"/C/Alfresco/java/lib/zi/Asia/Tashkent",
+		"/C/Alfresco/tomcat/bin/catalina-tasks.xml",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/autocorr/acor_sk-SK.dat",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/gallery/bullets/Bullet18-Asterisk-LightBlue.svg",
+		"/C/Alfresco/imagemagick/www/api/constitute.html",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/console/currency.get.html.ftl",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/console/currency.get.html",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/console/currency.get.desc.xml",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/console/currency.get.js",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/console/email/email-outbound.get.config.xml",
+		"/C/Alfresco/tomcat/webapps/share/modules/email-form.css",
+		"/C/Alfresco/libreoffice/App/libreoffice/share/gallery/symbols/Emotion05-Angry.svg",
+		"/C/Alfresco/postgresql/doc/postgresql/html/error-message-reporting.html",
+		"/C/Alfresco/imagemagick/english.xml",
+		"/C/Alfresco/tomcat/webapps/share/components/console/groups.js",
+		"/C/Users/Admin/Desktop/alfresco api mechanism.txt",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.js",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.html.ftl",
+		"/C/Alfresco/tomcat/webapps/share/components/data-lists/datalists.js",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/form-example.get.js",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/form-example.get.desc.xml",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/form-example.get.html.ftl",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-data/pages/data-lists.xml",
+		"/C/Alfresco/tomcat/webapps/share/components/data/data-loader.js",
+		"/C/Alfresco/tomcat/webapps/share/modules/data-picker.css",
+		"/C/Alfresco/postgresql/doc/postgresql/html/datatype.html",
+		"/C/Alfresco/tomcat/webapps/share/js/lib/dojo-1.9.0/dijit/nls/dijit-all_th.js",
+		"/C/Alfresco/postgresql/include/dynamic_annotations.h",
+		"/C/Alfresco/imagemagick/delegates.xml",
+		"/C/Alfresco/uninstall.dat",
+		"/C/Alfresco/solr4/archive-SpacesStore/conf/lang/userdict_ja.txt",
+		"/C/Alfresco/postgresql/pgAdmin III/docs/en_US/_static/jquery.js",
+		"/C/Alfresco/postgresql/StackBuilder/share/i18n/ja_JP/wxstd.mo",
+		"/C/Alfresco/tomcat/webapps/share/components/workflow/task-edit-header.js",
+		"/C/Alfresco/tomcat/webapps/share/WEB-INF/classes/alfresco/site-webscripts/crudservice-example.get.desc.xml",
+		"/C/Alfresco/tomcat/webapps/share/js/alfresco/navigation/Link.js",
+		"/C/Alfresco/licenses/3rd-party/ASM License.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"E:\\wamp\\www\\BackupAccountManagerInterface\\Application",
+			"C:\\Users\\Admin\\Downloads\\Compressed\\wf-form-master",
+			"C:\\Alfresco",
+			"D:\\Projects\\alfrescoWorkspace\\unifun-payment-system\\share-amp",
+			"D:\\Projects\\alfrescoWorkspace\\unifun-payment-system",
+			"C:\\Alfresco\\tomcat",
+			"C:\\Alfresco",
+			"C:\\Alfresco\\tomcat\\webapps\\share\\components",
+			"C:\\Alfresco\\tomcat\\webapps\\share\\components\\workflow",
+			"C:\\Alfresco",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                                                                          ",
+			"                                                                         ",
+			"                                                                        ",
+			"                                                                       ",
+			"                                                                      ",
+			"                                                                     ",
+			"                                                                    ",
+			"                                                                   ",
+			"                                                                  ",
+			"                                                                 ",
+			"                                                                ",
+			"                                                               ",
+			"                                                              ",
+			"                                                             ",
+			"                                                            ",
+			"                                                           ",
+			"                                                          ",
+			"                                                         ",
+			"                                                        ",
+			"                                                       ",
+			"MYSQL_LOVE",
+			"country-and-region-wrapper",
+			"CountryGeneral",
+			"width",
+			"border:none",
+			"family",
+			"height",
+			"50%",
+			"</p>",
+			"</p",
+			"!important;",
+			"     	\n",
+			"style_of_td1",
+			"style_of_1",
+			"'2031-03-31'",
+			"generateUniqueName",
+			"consulting/services/workflow/upload",
+			"jsp/site-index.jsp",
+			"site-index.jsp",
+			"workflow.field.message",
+			"getNewCurrencyId",
+			"sucessCallback",
+			"jsonPost",
+			"heysonaheysona",
+			"ujjwal",
+			"showCancelButton",
+			"datalistexample",
+			"node-type",
+			"localhost",
+			"localhost:8082",
+			"cm:content",
+			"config",
+			"/components/form/form.js",
+			"form",
+			"           \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100%",
+			";",
+			"varInterval"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"keystore",
+				"alf_data\\keystore\\keystore"
+			],
+			[
+				"alfresco-globa",
+				"tomcat\\shared\\classes\\alfresco-global.properties"
+			],
+			[
+				"consulting/services/workflow/upload",
+				"wf-form-master\\amp\\src\\main\\amp\\config\\alfresco\\extension\\templates\\webscripts\\org\\alfresco\\consulting\\services\\workflow\\upload\\upload.post.js"
+			],
+			[
+				"upload",
+				"wf-form-master\\share\\src\\main\\webapp\\components\\form\\upload.js"
+			],
+			[
+				"start-wo",
+				"wf-form-master\\share\\src\\main\\resources\\alfresco\\web-extension\\site-webscripts\\org\\alfresco\\consulting\\extensions\\components\\workflow\\start-workflow.get.desc.xml"
+			],
+			[
+				"email-out",
+				"tomcat\\webapps\\share\\WEB-INF\\classes\\alfresco\\site-webscripts\\org\\alfresco\\components\\console\\email\\email-outbound.get.config.xml"
+			],
+			[
+				"form-example.get.html.ftl",
+				"tomcat\\webapps\\share\\WEB-INF\\classes\\alfresco\\site-webscripts\\form-example.get.html.ftl"
+			],
+			[
+				"task-edit",
+				"tomcat\\webapps\\share\\components\\workflow\\task-edit-header.js"
+			],
+			[
+				"createform.get.desc.xml",
+				"tomcat\\webapps\\share\\WEB-INF\\classes\\alfresco\\site-webscripts\\org\\alfresco\\components\\wiki\\createform.get.desc.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

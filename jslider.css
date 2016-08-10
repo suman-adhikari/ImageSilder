@@ -1,0 +1,15 @@
+#mainContainer{ position: absolute; width:1200px height:900px; margin:1% 30%; }
+
+#imgHolder{ position:relative; overflow: hidden;}
+img{ position:relative; z-index:1 }
+.img_txt { position:absolute; z-index: 2; bottom:30px; right:40px; background-color:rgba(0,0,0,0.4); color:white; font-size:15px; padding:10px 20px; }
+
+#rightNav{ position:absolute; z-index: 2;  background-color:rgba(0,0,0,0.1); color: white; top:45%; right: 0px; padding:20px; }
+#leftNav{ position:absolute; z-index: 2; background-color:rgba(0,0,0,0.1); color:white; top:45%; left:0px; padding: 20px; }
+#rightNav:hover{ background-color:rgba(0,0,0,0.4);}
+#leftNav:hover{ background-color:rgba(0,0,0,0.4);  }
+
+.islide{ display: none }
+.imgActive { display: block; }
+
+.rlnav{ font-size: x-large;  }

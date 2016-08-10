@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Slider</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="jslider.css" rel="stylesheet" type="text/css">
+
+<script src="http://code.jquery.com/jquery-2.1.4.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="jslider.js"></script>
+</head>
+<body>
+
+<div id="mainContainer">
+  
+<div id="imgHolder">
+    <img class="islide imgActive" attr="" src="image/img1.jpg" alt="image description" >
+    <img class="islide" attr="" src="image/img2.jpg" alt="image one" >
+    <img class="islide" attr="" src="image/img3.jpg" alt="image two" >
+    <img class="islide" attr="" src="image/img4.jpg" alt="image three" >
+    <img class="islide" attr="" src="image/img5.png" alt="image four" >
+    <img class="islide" attr="" src="image/img6.jpg" alt="image five" >
+    
+    <div id="rightNav"><span class="glyphicon glyphicon-menu-right rlnav"></div>
+    <div id="leftNav"><span class="glyphicon glyphicon-menu-left rlnav"></div>
+</div>
+
+</div>
+
+<script>
+  $("#imgHolder").Sslide({ 
+     width:"900px",
+     height:"600px",
+     slidetime:4000
+   });
+</script>
+
+</body>
+</html>
